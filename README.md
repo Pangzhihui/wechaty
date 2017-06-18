@@ -1,10 +1,10 @@
-## saveFile-bot 
+# saveFile-bot 
 
-#### 功能
+## 功能
 
 这个机器人的功能是通过与QQ邮箱进行绑定，把收到的聊天文件都以邮件的形式保存到邮箱中，解决因为文件没有及时保存而过期的问题
 
-#### 展示
+## 展示
 
 <div align="center">
 <a target="_blank" href="https://v.qq.com/x/page/g0515hgx4da.html"><img src="https://cloud.githubusercontent.com/assets/1361891/21722581/3ec957d0-d468-11e6-8888-a91c236e0ba2.jpg" border=0 width="60%"></a>
@@ -12,11 +12,11 @@
 
 > Source code in the video can be found at here: [saveFile-bot](https://github.com/lijiarui/wechaty-getting-started)
 
-#### 运行
+## 运行
 
 比如说, 你已经下载保存了项目中的代码文件 `saveFile.ts`.我们可以直接使用docker来运行
 
-##### Docker
+### Docker
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/zixia/wechaty.svg?maxAge=2592000)](https://hub.docker.com/r/zixia/wechaty/) [![Docker Stars](https://img.shields.io/docker/stars/zixia/wechaty.svg?maxAge=2592000)](https://hub.docker.com/r/zixia/wechaty/) [![Docker Layers](https://images.microbadger.com/badges/image/zixia/wechaty.svg)](https://microbadger.com/#/images/zixia/wechaty)
 
