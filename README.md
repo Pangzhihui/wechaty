@@ -1,8 +1,11 @@
 ## saveFile-bot 
-####功能
+
+#### 功能
+
 这个机器人的功能是通过与QQ邮箱进行绑定，把收到的聊天文件都以邮件的形式保存到邮箱中，解决因为文件没有及时保存而过期的问题
 
-####展示
+#### 展示
+
 <div align="center">
 <a target="_blank" href="https://v.qq.com/x/page/g0515hgx4da.html"><img src="https://cloud.githubusercontent.com/assets/1361891/21722581/3ec957d0-d468-11e6-8888-a91c236e0ba2.jpg" border=0 width="60%"></a>
 </div>
