@@ -10,7 +10,6 @@
 <a target="_blank" href="https://v.qq.com/x/page/g0515hgx4da.html"><img src=https://github.com/Pangzhihui/wechaty/blob/master/wechaty.jpg?raw=true" border=0 width="60%"></a>
 </div>
 
-> Source code in the video can be found at here: [saveFile-bot](https://github.com/lijiarui/wechaty-getting-started)
 
 ## 运行
 
